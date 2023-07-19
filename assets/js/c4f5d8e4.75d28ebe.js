@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[4195],{2841:(e,c,s)=>{s.r(c),s.d(c,{default:()=>o});var t=s(7294),n=s(6550);function o(){return t.createElement(n.l_,{to:"/avgDAO-docs/docs/intro"})}}}]);
